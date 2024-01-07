@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "errno.h": "c",
+        "kernel.h": "c",
+        "sysinfo.h": "c",
+        "const.h": "c",
+        "stddef.h": "c",
+        "stdarg.h": "c",
+        "set_seg.h": "c",
+        "unistd.h": "c"
+    }
+}
